@@ -10,7 +10,6 @@ phone = '+421917387255'
 person_chat_id = 'panzerwagenn'
 # The chat ID of the group where you want to resend the messages
 group_chat_id = 'bitcoachCHAT'
-# https://t.me/join_bitcoachCHAT
 
 # Create a Telethon client
 client = TelegramClient('session_name', api_id, api_hash)
